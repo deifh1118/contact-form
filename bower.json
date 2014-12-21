@@ -1,19 +1,17 @@
 {
-  "name": "contact_form_webcomponent",
+  "name": "ContactFormWC",
   "version": "0.0.1",
-  "description": "Web component of a contact form",
+  "description": "Contact Form web component using Polymer and Ajax",
   "keywords": [
-    "web",
-    "component",
+    "web-components",
     "contact",
     "form"
   ],
   "authors": [
-    "Danna Fernandez Maras",
     "David Herranz Fernandez"
   ],
-  "license": "MIT",
-  "private": true,
+  "license": "Apache",
+  "private": false,
   "ignore": [
     "**/.*",
     "node_modules",
