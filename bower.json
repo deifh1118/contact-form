@@ -1,0 +1,30 @@
+{
+  "name": "contact_form_webcomponent",
+  "version": "0.0.1",
+  "description": "Web component of a contact form",
+  "keywords": [
+    "web",
+    "component",
+    "contact",
+    "form"
+  ],
+  "authors": [
+    "Danna Fernandez Maras",
+    "David Herranz Fernandez"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#~0.3.5",
+    "core-header-panel": "Polymer/core-header-panel#~0.3.5",
+    "core-toolbar": "Polymer/core-toolbar#~0.3.5",
+    "core-ajax": "Polymer/core-ajax#~0.3.5",
+    "paper-input": "Polymer/paper-input#~0.3.5",
+    "paper-ripple": "Polymer/paper-ripple#~0.3.5"
+  }
+}

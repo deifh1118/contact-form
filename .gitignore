@@ -1,0 +1,4 @@
+# File .gitignore
+
+# bower_components directory:
+bower_components/
