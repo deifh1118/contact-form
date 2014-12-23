@@ -1,7 +1,7 @@
-seed-element
+contact-form
 ============
 
-See the [component page](http://dh1118.github.io/contact-form-wc) for more information.
+See the [component page](http://dh1118.github.io/contact-form) for more information.
 
 ## Getting Started
 
