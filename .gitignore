@@ -1,7 +1,6 @@
 # File .gitignore
 
 # Directories:
-bower_components/
 tmp/
 tools/
 test/
