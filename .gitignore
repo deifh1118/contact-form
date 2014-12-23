@@ -1,4 +1,8 @@
 # File .gitignore
 
-# bower_components directory:
+# Directories:
 bower_components/
+tmp/
+tools/
+test/
+
