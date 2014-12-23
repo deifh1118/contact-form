@@ -1,5 +1,5 @@
 {
-  "name": "seed-element",
+  "name": "contact-form-wc",
   "version": "0.0.1",
   "authors": [
     "David Herranz Fernandez"
@@ -10,9 +10,9 @@
     "contact",
     "form"
   ],
-  "main": "seed-element.html",
+  "main": "contact-form-wc.html",
   "license": "Apache",
-  "homepage": "https://github.com/dh1118/seed-element/",
+  "homepage": "https://github.com/dh1118/contact-form-wc/",
   "ignore": [
     "/.*",
     "/tests/"
