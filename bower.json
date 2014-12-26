@@ -10,7 +10,7 @@
     "contact",
     "form"
   ],
-  "main": "contact-form-wc.html",
+  "main": "contact-form.html",
   "license": "Apache",
   "homepage": "http://dh1118.github.io/components_demos/contact-form/components/contact-form/",
   "ignore": [
