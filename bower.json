@@ -1,5 +1,5 @@
 {
-  "name": "contact-form-wc",
+  "name": "contact-form",
   "version": "0.0.1",
   "authors": [
     "David Herranz Fernandez"
@@ -12,7 +12,7 @@
   ],
   "main": "contact-form-wc.html",
   "license": "Apache",
-  "homepage": "https://github.com/dh1118/contact-form-wc/",
+  "homepage": "http://dh1118.github.io/components_demos/contact-form/components/contact-form/",
   "ignore": [
     "/.*",
     "/tests/"
