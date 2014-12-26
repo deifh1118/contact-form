@@ -7,6 +7,7 @@
   "description": "Contact Form web component using Polymer and Ajax",
   "keywords": [
     "web-components",
+		"polymer",
     "contact",
     "form"
   ],
