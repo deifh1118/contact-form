@@ -1,7 +1,7 @@
 contact-form
 ============
 
-Polymer contact form that uses ajax - [Check it live](http://dh1118.github.io/components_demos/contact-form/components/contact-form/) for more information.
+Polymer contact form that uses ajax - [Check it live](http://deifh1118.github.io/components_demos/contact-form/components/contact-form/) for more information.
 
 ## Testing Your Element
 
